@@ -31,4 +31,4 @@ The goal is to offload the interaction counting process to a separate service, a
 > **Note:** This example is intentionally simplistic and overkill for a real-world scenario. However, it serves as a great way to demonstrate message queues in action. In a real-world system, this approach is more suited for high-traffic services like payment processing or handling technical debt in a microservices architecture.
 
 ## 📌 Disclaimer
-This project was built as a quick learning exercise (under 1 day). The architecture is not optimized for production but is meant to illustrate message queue concepts.
+This project was built as a quick learning exercise (under 1 day). So the example used is supposed to be simple as possible to avoid high business logic complexity, focusing ONLY on the development complexity (Praticing queue messaging implementation).
